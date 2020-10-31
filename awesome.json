@@ -1,0 +1,36 @@
+[
+    {
+        "name": "LeetCode",
+        "url": "https://leetcode.com/",
+        "description": "",
+        "contest": true
+    },
+    {
+        "name": "Codewars",
+        "url": "https://www.codewars.com/",
+        "levelup": "true"
+    },
+    {
+        "name": "Project Euler",
+        "url": "https://projecteuler.net/",
+        "tags": [
+            "math"
+        ]
+    },
+    {
+        "name": "Kattis",
+        "url": "https://open.kattis.com/"
+    },
+    {
+        "name": "Advent of Code",
+        "url": "https://adventofcode.com/",
+        "event": true
+    },
+    {
+        "name": "Rosalind",
+        "url": "rosalind.info/",
+        "tags": [
+            "bioinformatics"
+        ]
+    }
+]
